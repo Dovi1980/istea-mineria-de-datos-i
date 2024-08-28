@@ -8,3 +8,5 @@ perteneciente a la carrera Tecnicatura en Ciencias de Datos & IA en ISTEA
  aplicación de la Minería de Datos en diversos contextos. Los estudiantes adquirirán las
  herramientas necesarias para explorar datos, tomar decisiones informadas y utilizar
  conocimientos ocultos para resolver problemas complejos en una variedad de campos.
+
+28 de Agosto de 2024.
